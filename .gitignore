@@ -1,0 +1,7 @@
+applicationTest\bin
+applicationTest\obj
+applicationTest.Android\bin
+applicationTest.Android\obj
+applicationTest.UWP\bin
+applicationTest.UWP\obj
+.vs
